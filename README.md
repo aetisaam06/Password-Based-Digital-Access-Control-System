@@ -90,19 +90,19 @@ The complete circuit was built and tested on a breadboard using TTL logic ICs.
 
 ## 📷 Project Images
 
-### Breadboard Implementation
+### Breadboard
 
-(Add your Breadboard image here)
+![Breadboard](Breadboard.PNG)
 
 ### Circuit Diagram
 
-(Add your circuit diagram here)
+![Circuit](Circuit_AI.png)
 
 ### Proteus Simulation
 
-(Add your Proteus screenshot here)
+![Proteus](Circuit_Proteus.png)
 
----
+
 
 ## 📂 Repository Structure
 
@@ -116,7 +116,7 @@ Password-Based-Digital-Access-Control-System
 ├── Breadboard.jpg
 ├── Circuit.png
 ├── Proteus.png
-└── Proteus Files/
+
 ```
 
 ---
